@@ -1,0 +1,8 @@
+__results___files
+.ipynb_checkpoints
+Dataset
+Dataset2
+*.png
+*.webp
+*.jpg
+*.h5
